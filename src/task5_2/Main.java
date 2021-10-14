@@ -5,5 +5,6 @@ public class Main {
 		StrongBox<String> s = new StrongBox<String>(KeyType.PADLOCK);
 		s.get();
 		s.get();
+
 	}
 }
